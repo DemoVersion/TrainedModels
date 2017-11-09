@@ -14,6 +14,7 @@ For translate using these models, use the [translate.lua](http://opennmt.net/Ope
 | OpenSubtitles2016_fa_en | 100k              | 100k              | 20 | 7.91 | [Download](https://1drv.ms/u/s!AnSE9VRFm2dwhFppgFJbnq-yEwCV) |
 
 These models are Trained using [OpenNMT](https://github.com/OpenNMT/OpenNMT/), See more details about the models here:
+
 | Parameter             | Value |
 | --------------------- | ----- |
 | -src_word_vec_size    | 500   |
