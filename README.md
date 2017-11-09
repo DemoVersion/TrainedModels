@@ -15,7 +15,7 @@ For translate using these models, use the [translate.lua](http://opennmt.net/Ope
 
 These models are Trained using [OpenNMT](https://github.com/OpenNMT/OpenNMT/), See more details about the models here:
 | Parameter             | Value |
-| ---------             | ----- |
+| --------------------- | ----- |
 | -src_word_vec_size    | 500   |
 | -tgt_word_vec_size    | 500   |
 | -layers               | 2     |
